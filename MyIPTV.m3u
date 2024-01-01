@@ -167,4 +167,32 @@ http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683165&extensi
 #EXTINF:-1 group-title="InterID" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/US-United%20States/Paramount_Network.png?raw=true",Paramount Network
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683174&extension=ts&play_token=GVZS088tcf
 --------------------//
+//-----> Animal Planet
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTVLCOPT:http-referrer=
+#EXTINF:-1 group-title="InterID" tvg-logo="",Animal Planet
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch31%29/index.m3u8
+--------------------//
+//-----> Celestial Movies
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTVLCOPT:http-referrer=
+#EXTINF:-1 group-title="InterID" tvg-logo="",Celestial Movies
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch204%29/index.m3u8
+--------------------//
+//-----> Discovery Channel
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTVLCOPT:http-referrer=
+#EXTINF:-1 group-title="InterID" tvg-logo="",Discovery Channel
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch29%29/index.m3u8
+--------------------//
+//-----> History
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTVLCOPT:http-referrer=
+#EXTINF:-1 group-title="InterID" tvg-logo="",History
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch131%29/index.m3u8
+--------------------//
 ========== END of GROUP ==========
