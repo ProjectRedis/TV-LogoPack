@@ -153,5 +153,11 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.
 ========== END of GROUP ==========
 
 ========== INTERNASIONAL ID ==========
-
+//-----> Animax ID
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTVLCOPT:http-referrer=
+#EXTINF:-1 group-title="InterID" tvg-logo="",Animax
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683174&extension=ts&play_token=GVZS088tcf
+--------------------//
 ========== END of GROUP ==========
