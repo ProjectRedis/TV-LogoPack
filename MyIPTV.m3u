@@ -157,14 +157,14 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTVLCOPT:http-referrer=
-#EXTINF:-1 group-title="InterID" tvg-logo="",Animax
+#EXTINF:-1 group-title="InterID" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/JP-Japan/Animax.png?raw=true",Animax
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683165&extension=ts&play_token=GVZS088tcf
 --------------------//
 //-----> Paramount Network
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTVLCOPT:http-referrer=
-#EXTINF:-1 group-title="InterID" tvg-logo="",Paramount Network
+#EXTINF:-1 group-title="InterID" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/US-United%20States/Paramount_Network.png?raw=true",Paramount Network
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683174&extension=ts&play_token=GVZS088tcf
 --------------------//
 ========== END of GROUP ==========
