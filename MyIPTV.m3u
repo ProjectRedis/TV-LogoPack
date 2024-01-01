@@ -1,0 +1,157 @@
+========== TV NASIONAL ==========
+//-----> ANTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTVLCOPT:http-referrer=
+#EXTINF:-1 group-title="Indonesia" tvg-id="" tvg-name="ANTV" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/ID-Indonesia/ANTV.png?raw=true",ANTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch390%29/index.m3u8
+--------------------//
+//-----> BTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTVLCOPT:http-referrer=
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/ID-Indonesia/BTV.png?raw=true",BTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch360%29/index.m3u8
+--------------------//
+//-----> CNN Indonesia
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTVLCOPT:http-referrer=
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/ID-Indonesia/CNN_ID.png?raw=true",CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
+--------------------//
+//-----> Garuda TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTVLCOPT:http-referrer=
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/ID-Indonesia/Garuda_TV.png?raw=true",Garuda TV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch45%29/index.m3u8
+--------------------//
+//-----> GTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/ID-Indonesia/GTV.png?raw=true",GTV
+https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+--------------------//
+//-----> Indosiar
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTVLCOPT:http-referrer=:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/ID-Indonesia/Indosiar.png?raw=true",Indosiar
+https://bit.ly/3MeFJVc
+--------------------//
+//-----> iNews
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/ID-Indonesia/iNews.png?raw=true",iNews
+https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+--------------------//
+//-----> JTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTVLCOPT:http-referrer=
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/ID-Indonesia/JTV.png?raw=true",JTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch17%29/index.m3u8
+--------------------//
+//-----> Kompas TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTVLCOPT:http-referrer=
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/ID-Indonesia/Kompas_TV.png?raw=true",Kompas TV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch410%29/index.m3u8
+--------------------//
+//-----> Magna Channel
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTVLCOPT:http-referrer=
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/ID-Indonesia/Magna_Channel.png?raw=true",Magna Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w757574110_b2692000_sleng.m3u8
+--------------------//
+//-----> MetroTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/ID-Indonesia/Metro_TV.png?raw=true",MetroTV
+https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
+--------------------//
+//-----> MNCTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/ID-Indonesia/MNCTV.png?raw=true",MNCTV
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+--------------------//
+//-----> RCTI
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/ID-Indonesia/RCTI.png?raw=true",RCTI
+https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+--------------------//
+//-----> RTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/ID-Indonesia/RTV.png?raw=true",RTV
+https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+--------------------//
+//-----> SCTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/ID-Indonesia/SCTV.png?raw=true",SCTV
+https://bit.ly/3Sc6EFk
+--------------------//
+//-----> Trans TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTVLCOPT:http-referrer=
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/ID-Indonesia/Trans_TV.png?raw=true",Trans TV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch396%29/index.m3u8
+--------------------//
+//-----> Trans7
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTVLCOPT:http-referrer=
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/ID-Indonesia/Trans7.png?raw=true",Trans7
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch397%29/index.m3u8
+--------------------//
+//-----> tvOne
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTVLCOPT:http-referrer=
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/ID-Indonesia/tvOne.png?raw=true",tvOne
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch398%29/index.m3u8
+--------------------//
+//-----> TVRI
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTVLCOPT:http-referrer=
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/ID-Indonesia/TVRI.png?raw=true",TVRI
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8?checkedby:iptvcat.com
+--------------------//
+//-----> TVRI Sport
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTVLCOPT:http-referrer=
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/ID-Indonesia/TVRI_Sport.png?raw=true",TVRI Sport
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8?checkedby:iptvcat.com
+--------------------//
+//-----> TVRI World
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTVLCOPT:http-referrer=
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/ID-Indonesia/TVRI_World.png?raw=true",TVRI World
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.m3u8?checkedby:iptvcat.com
+--------------------//
+========== END of GROUP ==========
+
+========== TV LOKAL ==========
+
+========== END of GROUP ==========
+
+========== INTERNASIONAL ID ==========
+
+========== END of GROUP ==========
