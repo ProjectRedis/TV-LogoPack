@@ -278,21 +278,21 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch338%29/index
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="InterID;Kids" tvg-logo="",Nickelodeon
+#EXTINF:-1 group-title="InterID;Kids" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/US-United%20States/Nickelodeon.png?raw=true",Nickelodeon
 https://nyanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
 == My Kidz
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="InterID;Kids" tvg-logo="",My Kidz
+#EXTINF:-1 group-title="Indonesia+;Kids" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/ID-Indonesia/My_Kidz.png?raw=true",My Kidz
 https://nyanv-live-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
 
 == Asian Food Network
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTVLCOPT:http-referrer=
-#EXTINF:-1 group-title="InterID;Lifestyle;Entertainment" tvg-logo="",Asian Food Network
+#EXTINF:-1 group-title="InterID;Lifestyle;Entertainment" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/SG-Singapore/AFN.png?raw=true",Asian Food Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch76%29/index.m3u8
 
 == Eat & Go
@@ -303,21 +303,21 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch76%29/index.
 #KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
 #KODIPROP:inputstream.adaptive.license_key=https://auto.nyolong-lu-y.workers.dev
 #EXTVLCOPT:http-referrer=
-#EXTINF:-1 group-title="InterID;Lifestyle" tvg-logo="",Eat & Go
+#EXTINF:-1 group-title="Indonesia+;Lifestyle" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/ID-Indonesia/Eat&Go.png?raw=true",Eat & Go
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170342015d30907/manifest.mpd
 
 == Lifetime
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="InterID;Lifestyle" tvg-logo="",Lifetime
+#EXTINF:-1 group-title="InterID;Lifestyle" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/US-United%20States/Lifetime.png?raw=true",Lifetime
 https://nyanv-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
 == TLC
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTVLCOPT:http-referrer=
-#EXTINF:-1 group-title="InterID;Lifestyle" tvg-logo="",TLC
+#EXTINF:-1 group-title="InterID;Lifestyle" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/US-United%20States/TLC.png?raw=true",TLC
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch35%29/index.m3u8
 
 =========================
