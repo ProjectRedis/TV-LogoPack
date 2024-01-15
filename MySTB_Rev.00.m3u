@@ -218,3 +218,18 @@ http://iptvtree.net:8080/F26646/f950f250/157593
 
 #EXTINF:-1 group-title="Kids" tvg-name="DreamWorks" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/DreamWorks.png?raw=true",DreamWorks
 http://iptvtree.net:8080/F26646/f950f250/157610
+
+#EXTINF:-1 group-title="Knowledge" tvg-name="Nat Geo" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/NatGeo.png?raw=true",Nat Geo
+https://github.com/ProjectRedis/TV-LogoPack/blob/main/Test/NatGeo.m3u8?raw=true
+
+#EXTINF:-1 group-title="Knowledge" tvg-name="Nat Geo Wild" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/NatGeoWild.png?raw=true",Nat Geo Wild
+https://github.com/ProjectRedis/TV-LogoPack/blob/main/Test/NatGeoWild.m3u8?raw=true
+
+#EXTINF:-1 group-title="Sports" tvg-name="Bein Sports 1" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/BeinSports01.png?raw=true",Bein Sports 1
+https://github.com/ProjectRedis/TV-LogoPack/blob/main/Test/BeinSports01.m3u8?raw=true
+
+#EXTINF:-1 group-title="Sports" tvg-name="Bein Sports 2" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/BeinSports02.png?raw=true",Bein Sports 2
+https://github.com/ProjectRedis/TV-LogoPack/blob/main/Test/BeinSports02.m3u8?raw=true
+
+#EXTINF:-1 group-title="Movies" tvg-name="HBO Signature" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/HBOSignature.png?raw=true",HBO Signature
+https://github.com/ProjectRedis/TV-LogoPack/blob/main/Test/HBOSignature.m3u8?raw=true
