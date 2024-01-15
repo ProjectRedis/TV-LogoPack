@@ -14,6 +14,9 @@ https://github.com/ProjectRedis/TV-LogoPack/blob/main/Test/BeinSports03.m3u8?raw
 #EXTINF:-1 group-title="Kids" tvg-name="Cartoon Network" tvg-logo="",Cartoon Network
 https://github.com/ProjectRedis/TV-LogoPack/blob/main/Test/CartoonNetwork.m3u8?raw=true
 
+#EXTINF:-1 group-title="Kids" tvg-name="Cartoon Network 2" tvg-logo="",Cartoon Network 2
+https://github.com/ProjectRedis/TV-LogoPack/blob/main/Test/CartoonNetwork2.m3u8?raw=true
+
 #EXTINF:-1 group-title="Movies" tvg-name="Cinema Worlds" tvg-logo="",Cinema Worlds
 https://github.com/ProjectRedis/TV-LogoPack/blob/main/Test/CinemaWorld.m3u8?raw=true
 
