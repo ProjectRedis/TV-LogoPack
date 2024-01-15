@@ -1,0 +1,54 @@
+#EXTM3U
+#EXTINF:-1 group-title="Kids" tvg-name="AniPlus" tvg-logo="",AniPlus
+https://github.com/ProjectRedis/TV-LogoPack/blob/main/Test/AniPlus.m3u8?raw=true
+
+#EXTINF:-1 group-title="Sports" tvg-name="Bein Sports 1" tvg-logo="",Bein Sports 1
+https://github.com/ProjectRedis/TV-LogoPack/blob/main/Test/BeinSports01.m3u8?raw=true
+
+#EXTINF:-1 group-title="Sports" tvg-name="Bein Sports 2" tvg-logo="",Bein Sports 2
+https://github.com/ProjectRedis/TV-LogoPack/blob/main/Test/BeinSports02.m3u8?raw=true
+
+#EXTINF:-1 group-title="Sports" tvg-name="Bein Sports 3" tvg-logo="",Bein Sports 3
+https://github.com/ProjectRedis/TV-LogoPack/blob/main/Test/BeinSports03.m3u8?raw=true
+
+#EXTINF:-1 group-title="Kids" tvg-name="Cartoon Network" tvg-logo="",Cartoon Network
+https://github.com/ProjectRedis/TV-LogoPack/blob/main/Test/CartoonNetwork.m3u8?raw=true
+
+#EXTINF:-1 group-title="Movies" tvg-name="Cinema Worlds" tvg-logo="",Cinema Worlds
+https://github.com/ProjectRedis/TV-LogoPack/blob/main/Test/CinemaWorld.m3u8?raw=true
+
+#EXTINF:-1 group-title="Movies" tvg-name="Cinemax" tvg-logo="",Cinemax
+https://github.com/ProjectRedis/TV-LogoPack/blob/main/Test/Cinemax.m3u8?raw=true
+
+#EXTINF:-1 group-title="Kids" tvg-name="Disney" tvg-logo="",Disney
+https://github.com/ProjectRedis/TV-LogoPack/blob/main/Test/DisneyChannel.m3u8?raw=true
+
+#EXTINF:-1 group-title="Kids" tvg-name="Disney Jr" tvg-logo="",Disney Jr
+https://github.com/ProjectRedis/TV-LogoPack/blob/main/Test/DisneyJr.m3u8?raw=true
+
+#EXTINF:-1 group-title="Kids" tvg-name="Disney XD" tvg-logo="",Disney XD
+https://github.com/ProjectRedis/TV-LogoPack/blob/main/Test/DisneyXD.m3u8?raw=true
+
+#EXTINF:-1 group-title="Movies" tvg-name="HBO" tvg-logo="",HBO
+https://github.com/ProjectRedis/TV-LogoPack/blob/main/Test/HBO.m3u8?raw=true
+
+#EXTINF:-1 group-title="Movies" tvg-name="HBO Family" tvg-logo="",HBO Family
+https://github.com/ProjectRedis/TV-LogoPack/blob/main/Test/HBOFamily.m3u8?raw=true
+
+#EXTINF:-1 group-title="Movies" tvg-name="HBO Hits" tvg-logo="",HBO Hits
+https://github.com/ProjectRedis/TV-LogoPack/blob/main/Test/HBOHits.m3u8?raw=true
+
+#EXTINF:-1 group-title="Movies" tvg-name="HBO Signature" tvg-logo="",HBO Signature
+https://github.com/ProjectRedis/TV-LogoPack/blob/main/Test/HBOSignature.m3u8?raw=true
+
+#EXTINF:-1 group-title="Movies" tvg-name="My Cinema" tvg-logo="",My Cinema
+https://github.com/ProjectRedis/TV-LogoPack/blob/main/Test/MyCinema.m3u8?raw=true
+
+#EXTINF:-1 group-title="Movies" tvg-name="My Cinema Asia" tvg-logo="",My Cinema Asia
+https://github.com/ProjectRedis/TV-LogoPack/blob/main/Test/MyCinemaAsia.m3u8?raw=true
+
+#EXTINF:-1 group-title="Knowledge" tvg-name="Nat Geo" tvg-logo="",Nat Geo
+https://github.com/ProjectRedis/TV-LogoPack/blob/main/Test/NatGeo.m3u8?raw=true
+
+#EXTINF:-1 group-title="Knowledge" tvg-name="Nat Geo Wild" tvg-logo="",Nat Geo Wild
+https://github.com/ProjectRedis/TV-LogoPack/blob/main/Test/NatGeoWild.m3u8?raw=true
