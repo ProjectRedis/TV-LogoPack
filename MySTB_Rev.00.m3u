@@ -22,13 +22,9 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch45%29/index.
 https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTINF:-1 group-title="Indonesia" tvg-name="Indosiar" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/ID-Indonesia/Indosiar.png?raw=true",Indosiar
-#EXT-X-VERSION:3 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-referrer=:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=705720,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=480x360 
-http://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2238329,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1024x576 
-http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+https://github.com/ProjectRedis/TV-LogoPack/blob/main/EXTV3/Indosiar%20HD?raw=true
 
 #EXTINF:-1 group-title="Indonesia" tvg-name="iNews" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/ID-Indonesia/iNews.png?raw=true",iNews
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -73,12 +69,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 #EXTINF:-1 group-title="Indonesia" tvg-name="SCTV" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/ID-Indonesia/SCTV.png?raw=true",SCTV
-#EXT-X-VERSION:3 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=705720,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=480x360 
-http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2238329,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1024x576 
-http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+https://github.com/ProjectRedis/TV-LogoPack/blob/main/EXTV3/SCTV%20HD?raw=true
 
 #EXTINF:-1 group-title="Indonesia" tvg-name="Trans TV" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/ID-Indonesia/Trans_TV.png?raw=true",Trans TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
