@@ -211,7 +211,10 @@ https://cdnjt24.useetv.com/drm/live/smil:aniplus.smil/manifest.mpd
 http://iptvtree.net:8080/F26646/f950f250/157593
 
 #EXTINF:-1 group-title="Kids" tvg-name="DreamWorks" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/DreamWorks.png?raw=true",DreamWorks
-http://iptvtree.net:8080/F26646/f950f250/157610
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
 
 #EXTINF:-1 group-title="Knowledge" tvg-name="Nat Geo" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/NatGeo.png?raw=true",Nat Geo
 https://github.com/ProjectRedis/TV-LogoPack/blob/main/Test/NatGeo.m3u8?raw=true
