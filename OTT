@@ -1,325 +1,411 @@
-===== TV NASIONAL =====
-== ANTV
+#EXTM3U
+=============== INDONESIA ===============
+EXTINF:-1 group-logo="",Indonesia
+
+//--- ANTV
+#EXTINF:-1 group-title="Indonesia" tvg-name="ANTV" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/ANTV.png?raw=true",ANTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTVLCOPT:http-referrer=
-#EXTINF:-1 group-title="Indonesia" tvg-id="" tvg-name="ANTV" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/ID-Indonesia/ANTV.png?raw=true",ANTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch390%29/index.m3u8
 
-== BTV
+//--- BTV
+#EXTINF:-1 group-title="Indonesia" tvg-name="BTV" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/BTV.png?raw=true",BTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTVLCOPT:http-referrer=
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/ID-Indonesia/BTV.png?raw=true",BTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch360%29/index.m3u8
 
-== CNN Indonesia
+//--- CNN Indonesia
+#EXTINF:-1 group-title="Indonesia" tvg-name="CNN Indonesia" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/CNN_ID.png?raw=true",CNN Indonesia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTVLCOPT:http-referrer=
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/ID-Indonesia/CNN_ID.png?raw=true",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
 
-== Garuda TV
+//--- Garuda TV
+#EXTINF:-1 group-title="Indonesia" tvg-name="Garuda TV" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/Garuda_TV.png?raw=true",Garuda TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTVLCOPT:http-referrer=
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/ID-Indonesia/Garuda_TV.png?raw=true",Garuda TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch45%29/index.m3u8
 
-== GTV
+//--- GTV
+#EXTINF:-1 group-title="Indonesia" tvg-name="GTV" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/GTV.png?raw=true",GTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/ID-Indonesia/GTV.png?raw=true",GTV
 https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
-== Indosiar
+//--- Indosiar
+#EXTINF:-1 group-title="Indonesia" tvg-name="Indosiar" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/Indosiar.png?raw=true",Indosiar
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=
 #EXTVLCOPT:http-referrer=:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/ID-Indonesia/Indosiar.png?raw=true",Indosiar
-https://bit.ly/3MeFJVc
+https://github.com/ProjectRedis/TV-LogoPack/blob/main/EXTV3/Indosiar%20HD?raw=true
 
-== iNews
+//--- iNews
+#EXTINF:-1 group-title="Indonesia" tvg-name="iNews" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/iNews.png?raw=true",iNews
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/ID-Indonesia/iNews.png?raw=true",iNews
 https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
-== JTV
+//--- JTV
+#EXTINF:-1 group-title="Indonesia" tvg-name="JTV" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/JTV.png?raw=true",JTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTVLCOPT:http-referrer=
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/ID-Indonesia/JTV.png?raw=true",JTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch17%29/index.m3u8
 
-== Kompas TV
+//--- Kompas TV
+#EXTINF:-1 group-title="Indonesia" tvg-name="Kompas TV" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/Kompas_TV.png?raw=true",Kompas TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTVLCOPT:http-referrer=
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/ID-Indonesia/Kompas_TV.png?raw=true",Kompas TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch410%29/index.m3u8
 
-== Magna Channel
+//--- Magna Channel
+#EXTINF:-1 group-title="Indonesia" tvg-name="Magna Channel" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/Magna_Channel.png?raw=true",Magna Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTVLCOPT:http-referrer=
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/ID-Indonesia/Magna_Channel.png?raw=true",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w757574110_b2692000_sleng.m3u8
 
-== MetroTV
+//--- Metro TV
+#EXTINF:-1 group-title="Indonesia" tvg-name="Metro TV" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/Metro_TV.png?raw=true",MetroTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/ID-Indonesia/Metro_TV.png?raw=true",MetroTV
 https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
-== MNCTV
+//--- MNCTV
+#EXTINF:-1 group-title="Indonesia" tvg-name="MNCTV" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/MNCTV.png?raw=true",MNCTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/ID-Indonesia/MNCTV.png?raw=true",MNCTV
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-== RCTI
+/--- RCTI
+#EXTINF:-1 group-title="Indonesia" tvg-name="RCTI" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/RCTI.png?raw=true",RCTI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/ID-Indonesia/RCTI.png?raw=true",RCTI
 https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
-== RTV
+//--- RTV
+#EXTINF:-1 group-title="Indonesia" tvg-name="RTV" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/RTV.png?raw=true",RTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/ID-Indonesia/RTV.png?raw=true",RTV
 https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
-== SCTV
-#KODIPROP:inputstream.adaptive.license_type=
-#KODIPROP:inputstream.adaptive.license_key=
+//--- SCTV
+#EXTINF:-1 group-title="Indonesia" tvg-name="SCTV" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/SCTV.png?raw=true",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/ID-Indonesia/SCTV.png?raw=true",SCTV
-https://bit.ly/3Sc6EFk
+https://github.com/ProjectRedis/TV-LogoPack/blob/main/EXTV3/SCTV%20HD?raw=true
 
-== Trans TV
+//--- Trans TV
+#EXTINF:-1 group-title="Indonesia" tvg-name="Trans TV" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/Trans_TV.png?raw=true",Trans TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTVLCOPT:http-referrer=
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/ID-Indonesia/Trans_TV.png?raw=true",Trans TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch396%29/index.m3u8
 
-== Trans7
+//--- Trans7
+#EXTINF:-1 group-title="Indonesia" tvg-name="Trans7" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/Trans7.png?raw=true",Trans7
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTVLCOPT:http-referrer=
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/ID-Indonesia/Trans7.png?raw=true",Trans7
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch397%29/index.m3u8
 
-== tvOne
+//--- tvOne
+#EXTINF:-1 group-title="Indonesia" tvg-name="tvOne" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/tvOne.png?raw=true",tvOne
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTVLCOPT:http-referrer=
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/ID-Indonesia/tvOne.png?raw=true",tvOne
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch398%29/index.m3u8
 
-== TVRI
+//--- TVRI
+#EXTINF:-1 group-title="Indonesia" tvg-name="TVRI" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/TVRI.png?raw=true",TVRI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTVLCOPT:http-referrer=
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/ID-Indonesia/TVRI.png?raw=true",TVRI
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8?checkedby:iptvcat.com
 
-== TVRI Sport
+//--- TVRI Sport
+#EXTINF:-1 group-title="Indonesia" tvg-name="TVRI Sport" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/TVRI_Sport.png?raw=true",TVRI Sport
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTVLCOPT:http-referrer=
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/ID-Indonesia/TVRI_Sport.png?raw=true",TVRI Sport
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8?checkedby:iptvcat.com
 
-== TVRI World
+//--- TVRI World
+#EXTINF:-1 group-title="Indonesia" tvg-name="TVRI World" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/TVRI_World.png?raw=true",TVRI World
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTVLCOPT:http-referrer=
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/ID-Indonesia/TVRI_World.png?raw=true",TVRI World
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.m3u8?checkedby:iptvcat.com
 
+//--- Moji
+#EXTINF:-1 group-title="Indonesia" tvg-name="Moji" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/Moji_TV.png?raw=true",Moji
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/23
 
-===== INTERNASIONAL ID =====
-== Animax
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTVLCOPT:http-referrer=
-#EXTINF:-1 group-title="InterID;Kids" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/JP-Japan/Animax.png?raw=true",Animax
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683165&extension=ts&play_token=GVZS088tcf
+//--- VTV
+#EXTINF:-1 group-title="Indonesia" tvg-name="VTV" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/VTV.png?raw=true",VTV
+https://playlist-coffee.my.id/oxy/vtv.m3u8
 
-== Paramount Network
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTVLCOPT:http-referrer=
-#EXTINF:-1 group-title="InterID;Entertainment;Movies" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/US-United%20States/Paramount_Network.png?raw=true",Paramount Network
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683174&extension=ts&play_token=GVZS088tcf
+//--- Mentari TV
+#EXTINF:-1 group-title="Indonesia" tvg-name="Mentari TV" tvg-id="mentaritv.id" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/Mentari_TV.png?raw=true",Mentari TV
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
-== Animal Planet
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTVLCOPT:http-referrer=
-#EXTINF:-1 group-title="InterID;Knowledge" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/US-United%20States/Animal_Planet.png?raw=true",Animal Planet
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch31%29/index.m3u8
+============================== END ==============================
 
-== Celestial Movies
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTVLCOPT:http-referrer=
-#EXTINF:-1 group-title="InterID;Movies" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/HK-Hong%20Kong/Celestial_Movies.png?raw=true",Celestial Movies
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch204%29/index.m3u8
+=============== KIDS ===============
+EXTINF:-1 group-logo="",Kids
 
-== Discovery Channel
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTVLCOPT:http-referrer=
-#EXTINF:-1 group-title="InterID;Knowledge" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/US-United%20States/Discovery_Channel.png?raw=true",Discovery Channel
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch29%29/index.m3u8
-
-== History
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTVLCOPT:http-referrer=
-#EXTINF:-1 group-title="InterID;Knowledge" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/US-United%20States/History.png?raw=true",History
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch131%29/index.m3u8
-
-== AXN East Asia
+//--- Animax
+#EXTINF:-1 group-title="Kids" tvg-name="Animax" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/Animax.png?raw=true",Animax
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="InterID;Movies" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/SG-Singapore/AXN.png?raw=true",AXN East Asia
-https://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
-== TVN Premium ID
+//--- Nickelodeon
+#EXTINF:-1 group-title="Kids" tvg-name="Nickelodeon" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/Nickelodeon.png?raw=true",Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="InterID;Movies" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/KR-Korea/TVN.png?raw=true",TVN Premium ID
-https://nyanv-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
-
-== TVN Movies ID
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="InterID;Movies" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/KR-Korea/TVN_Movies.png?raw=true",TVN Movies ID
-https://nyanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
-
-== FMN
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="InterID;Entertainment;Movies" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/ID-Indonesia/FMN.png?raw=true",FMN
-https://nyanv-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
-
-== BBC Earth Asia
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="InterID;Knowledge" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/UK-United%20Kingdom/BBC_Earth.png?raw=true",BBC Earth Asia
-https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
-
-== Crime+ Investigation Asia
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="InterID;Knowledge" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/SG-Singapore/Crime%2B_Investigation.png?raw=true",Crime+ Investigation Asia
-https://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
-
-== GEM
-#KODIPROP:inputstream.adaptive.license_type=
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTVLCOPT:http-referrer=
-#EXTINF:-1 group-title="InterID;Entertainment;Movies" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/SG-Singapore/GEM.png?raw=true",GEM
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3400%29/index.m3u8
-
-== Global Trekker
-#KODIPROP:inputstream.adaptive.license_type=
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTVLCOPT:http-referrer=
-#EXTINF:-1 group-title="InterID;Knowledge" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/UK-United%20Kingdom/Global_Trekker.png?raw=true",Global Trekker
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch366%29/index.m3u8
-
-== HGTV
-#KODIPROP:inputstream.adaptive.license_type=
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTVLCOPT:http-referrer=
-#EXTINF:-1 group-title="InterID;Lifestyle" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/US-United%20States/HGTV.png?raw=true",HGTV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch354%29/index.m3u8
-
-== HITS Movies
-#KODIPROP:inputstream.adaptive.license_type=
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTVLCOPT:http-referrer=
-#EXTINF:-1 group-title="InterID;Movies" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/SG-Singapore/Hits_Movies.png?raw=true",HITS Movies
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch324%29/index.m3u8
-
-== HITS
-#KODIPROP:inputstream.adaptive.license_type=
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTVLCOPT:http-referrer=
-#EXTINF:-1 group-title="InterID;Movies" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/SG-Singapore/HITS.png?raw=true",HITS
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch326%29/index.m3u8
-
-== ONE
-#KODIPROP:inputstream.adaptive.license_type=
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTVLCOPT:http-referrer=
-#EXTINF:-1 group-title="InterID;Entertainment" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/SG-Singapore/One.png?raw=true",ONE
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch338%29/index.m3u8
-
-== Nickelodeon
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="InterID;Kids" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/US-United%20States/Nickelodeon.png?raw=true",Nickelodeon
 https://nyanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
-== My Kidz
+//--- My Kidz
+#EXTINF:-1 group-title="Kids" tvg-name="My Kidz" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/My_Kidz.png?raw=true",My Kidz
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="Indonesia+;Kids" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/ID-Indonesia/My_Kidz.png?raw=true",My Kidz
 https://nyanv-live-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
 
-== Asian Food Network
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTVLCOPT:http-referrer=
-#EXTINF:-1 group-title="InterID;Lifestyle;Entertainment" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/SG-Singapore/AFN.png?raw=true",Asian Food Network
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch76%29/index.m3u8
+//--- AniPlus
+#EXTINF:-1 group-title="Kids" tvg-name="AniPlus" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/AniPlus.png?raw=true",AniPlus
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
+https://cdnjt24.useetv.com/drm/live/smil:aniplus.smil/manifest.mpd
 
-== Eat & Go
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data":"https://api.thomasandi.my.id/api/cubmu.php"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-#KODIPROP:inputstream.adaptive.license_key=https://auto.nyolong-lu-y.workers.dev
-#EXTVLCOPT:http-referrer=
-#EXTINF:-1 group-title="Indonesia+;Lifestyle" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/ID-Indonesia/Eat&Go.png?raw=true",Eat & Go
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170342015d30907/manifest.mpd
+//--- Cartoon Network
+#EXTINF:-1 group-title="Kids" tvg-name="Cartoon Network" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/CartoonNetwork.png?raw=true",Cartoon Network
+http://iptvtree.net:8080/F26646/f950f250/157593
 
-== Lifetime
+//--- DreamWorks
+#EXTINF:-1 group-title="Kids" tvg-name="DreamWorks" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/DreamWorks.png?raw=true",DreamWorks
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
+
+============================== END ==============================
+
+=============== MOVIES ===============
+EXTINF:-1 group-logo="",Movies
+
+//--- Paramount Network
+#EXTINF:-1 group-title="Movies" tvg-name="Paramount Network" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/Paramount_Network.png?raw=true",Paramount Network
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683174&extension=ts&play_token=GVZS088tcf
+
+//--- Celestial Movies
+#EXTINF:-1 group-title="Movies" tvg-name="Celestial Movies" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/Celestial_Movies.png?raw=true",Celestial Movies
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch204%29/index.m3u8
+
+//--- AXN East Asia
+#EXTINF:-1 group-title="Movies" tvg-name="AXN East Asia" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/AXN.png?raw=true",AXN East Asia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="InterID;Lifestyle" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/US-United%20States/Lifetime.png?raw=true",Lifetime
+https://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+
+//--- TVN Premium
+#EXTINF:-1 group-title="Movies" tvg-name="TVN Premium" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/TVN.png?raw=true",TVN Premium
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
+
+//--- TVN Movies
+#EXTINF:-1 group-title="Movies" tvg-name="TVN Movies" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/TVN_Movies.png?raw=true",TVN Movies
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+
+//--- FMN
+#EXTINF:-1 group-title="Movies" tvg-name="FMN" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/FMN.png?raw=true",FMN
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
+
+//--- HBO Signature
+#EXTINF:-1 group-title="Movies" tvg-name="HBO Signature" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/HBOSignature.png?raw=true",HBO Signature
+https://github.com/ProjectRedis/TV-LogoPack/blob/main/Test/HBOSignature.m3u8?raw=true
+
+//--- K-Plus
+#EXTINF:-1 group-title="Movies" tvg-name="K-Plus" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/K-Plus.png?raw=true",K-Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+http://210.210.155.35/uq2663/h/h08/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=K-PLUS_HD
+
+//--- My Cinema
+#EXTINF:-1 group-title="Movies" tvg-name="My Cinema" tvg-id="mycinema.id" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/MyCinema.png?raw=true",My Cinema
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
+
+//--- My Cinema Asia
+#EXTINF:-1 group-title="Movies" tvg-name="My Cinema Asia" tvg-id="mycinemaasia.id" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/MyCinemaAsia.png?raw=true",My Cinema Asia
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd
+
+//--- Rock Action
+#EXTINF:-1 group-title="Movies" tvg-name="Rock Action" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/RockAction.png?raw=true",Rock Action
+KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
+
+//--- Thrill
+#EXTINF:-1 group-title="Movies" tvg-name="Thrill" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/Thrill.png?raw=true",Thrill
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+
+//--- Zee Bioskop
+#EXTINF:-1 group-title="Movies" tvg-name="Zee Bioskop" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/ZeeBioskop.png?raw=true",Zee Bioskop
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+
+//--- My Family Channel
+#EXTINF:-1 group-title="Movies" tvg-name="My Family Channel" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/MyFamilyChannel.png?raw=true",My Family Channel
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
+
+//--- Celestial Classic Movies
+#EXTINF:-1 group-title="Movies" tvg-name="Celestial Classic Movies" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/CelestialClassicMovies.png?raw=true",Celestial Classic Movies
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+
+//--- Galaxy
+#EXTINF:-1 group-title="Movies" tvg-name="Galaxy" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/Galaxy.png?raw=true",Galaxy
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGYwYjY2NTYtMDNkOS0zMDYyLTkzOTUtN2ZmYTlhZmM3NDQ1
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
+https://nyanv-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+ 
+ //--- Galaxy Premium
+#EXTINF:-1 group-title="Movies" tvg-name="Galaxy Premium" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/GalaxyPremium.png?raw=true",Galaxy Premium
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGYwYjY2NTYtMDNkOS0zMDYyLTkzOTUtN2ZmYTlhZmM3NDQ1
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
+https://nyanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+
+//--- Hits Movies
+#EXTINF:-1 group-title="Movies" tvg-name="Hits Movies" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/Hits_Movies.png?raw=true",HITS Movies
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch324%29/index.m3u8
+
+//--- HITS
+#EXTINF:-1 group-title="Movies" tvg-name="HITS" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/HITS.png?raw=true",HITS
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch326%29/index.m3u8
+
+============================== END ==============================
+
+=============== KNOWLEDGE ===============
+EXTINF:-1 group-logo="",Knowledge
+
+//--- Animal Planet
+#EXTINF:-1 group-title="Knowledge" tvg-name="Animal Planet" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/Animal_Planet.png?raw=true",Animal Planet
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch31%29/index.m3u8
+
+//--- Discovery Channel
+#EXTINF:-1 group-title="Knowledge" tvg-name="Discovery Channel" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/Discovery_Channel.png?raw=true",Discovery Channel
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch29%29/index.m3u8
+
+//--- History
+#EXTINF:-1 group-title="Knowledge" tvg-name="History" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/History.png?raw=true",History
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch131%29/index.m3u8
+
+//--- BBC Earth
+#EXTINF:-1 group-title="Knowledge" tvg-name="BBC Earth" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/BBC_Earth.png?raw=true",BBC Earth Asia
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
+
+//--- Crime+ Investigation Asia
+#EXTINF:-1 group-title="Knowledge" tvg-name="Crime+ Investigation Asia" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/Crime%2B_Investigation.png?raw=true",Crime+ Investigation Asia
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+
+//--- Global Trekker
+#EXTINF:-1 group-title="Knowledge" tvg-name="Global Trekker" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/Global_Trekker.png?raw=true",Global Trekker
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch366%29/index.m3u8
+
+//--- Nat Geo
+#EXTINF:-1 group-title="Knowledge" tvg-name="Nat Geo" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/NatGeo.png?raw=true",Nat Geo
+https://github.com/ProjectRedis/TV-LogoPack/blob/main/Test/NatGeo.m3u8?raw=true
+
+//--- Nat Geo Wild
+#EXTINF:-1 group-title="Knowledge" tvg-name="Nat Geo Wild" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/NatGeoWild.png?raw=true",Nat Geo Wild
+https://github.com/ProjectRedis/TV-LogoPack/blob/main/Test/NatGeoWild.m3u8?raw=true
+
+============================== END ==============================
+
+=============== ENTERTAINMENT ===============
+EXTINF:-1 group-logo="",Entertainment
+
+//--- GEM
+#EXTINF:-1 group-title="Entertainment" tvg-name="GEM" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/GEM.png?raw=true",GEM
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3400%29/index.m3u8
+
+//--- Rock Entertainment
+#EXTINF:-1 group-title="Entertainment" tvg-name="Rock Entertainment" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/RockEntertainment.png?raw=true",Rock Entertainment
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
+
+//--- ONE
+#EXTINF:-1 group-title="Entertainment" tvg-name="ONE" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/One.png?raw=true",ONE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch338%29/index.m3u8
+
+============================== END ==============================
+
+=============== LIFESTYLE ===============
+EXTINF:-1 group-logo="",Lifestyle
+
+//--- Asian Food Network
+#EXTINF:-1 group-title="Lifestyle" tvg-name="Asian Food Network" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/AFN.png?raw=true",Asian Food Network
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch76%29/index.m3u8
+
+//--- Lifetime
+#EXTINF:-1 group-title="Lifestyle" tvg-name="Lifetime" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/Lifetime.png?raw=true",Lifetime
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
-== TLC
+//--- TLC
+#EXTINF:-1 group-title="Lifestyle" tvg-name="TLC" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/TLC.png?raw=true",TLC
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTVLCOPT:http-referrer=
-#EXTINF:-1 group-title="InterID;Lifestyle" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/US-United%20States/TLC.png?raw=true",TLC
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch35%29/index.m3u8
 
-=========================
+//--- HGTV
+#EXTINF:-1 group-title="Lifestyle" tvg-name="HGTV" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/HGTV.png?raw=true",HGTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch354%29/index.m3u8
+
+============================== END ==============================
+
+=============== SPORTS ===============
+EXTINF:-1 group-logo="",Sports
+
+//--- Bein Sports 1
+#EXTINF:-1 group-title="Sports" tvg-name="Bein Sports 1" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/BeinSports01.png?raw=true",Bein Sports 1
+https://github.com/ProjectRedis/TV-LogoPack/blob/main/Test/BeinSports01.m3u8?raw=true
+
+//--- Bein Sports 2
+#EXTINF:-1 group-title="Sports" tvg-name="Bein Sports 2" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/BeinSports02.png?raw=true",Bein Sports 2
+https://github.com/ProjectRedis/TV-LogoPack/blob/main/Test/BeinSports02.m3u8?raw=true
+
+============================== END ==============================
 
 #EXTM3U billed-msg="List IPTV ini 100% gratis! jangan diperjual belikan"
