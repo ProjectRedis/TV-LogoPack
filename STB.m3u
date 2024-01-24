@@ -41,15 +41,6 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.
 #EXTINF:-1 group-title="Indonesia" tvg-name="Moji",Moji
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/23
 
-#EXTINF:-1 group-title="Indonesia" tvg-name="VTV",VTV
-https://playlist-coffee.my.id/oxy/vtv.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-name="Indosiar",Indosiar
-https://playlist-coffee.my.id/oxy/indosiar.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-name="SCTV",SCTV
-https://playlist-coffee.my.id/oxy/sctv.m3u8
-
 #EXTINF:-1 group-title="Movies" tvg-name="Paramount Network",Paramount Network
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683174&extension=ts&play_token=GVZS088tcf
 
@@ -64,12 +55,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch204%29/index
 
 #EXTINF:-1 group-title="Movies" tvg-name="HBO Signature",HBO Signature
 https://github.com/ProjectRedis/TV-LogoPack/blob/main/Test/HBOSignature.m3u8?raw=true
-
-#EXTINF:-1 group-title="Movies" tvg-name="TVN",TVN
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch339%29/index.m3u8 
-
-#EXTINF:-1 group-title="Movies" tvg-name="TVN Movies",TVN Movies
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch343%29/index.m3u8 
 
 #EXTINF:-1 group-title="Movies" tvg-name="AXN",AXN
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/axn.m3u8
@@ -122,9 +107,3 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/animax.m3u8
 #EXTVLCOPT:http-referrer=http://dens.tv
 #EXTINF:-1 group-title="Kids" tvg-name="MyKidz",MyKidz
 http://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-name="Bein Sports 1",Bein Sports 1
-https://github.com/ProjectRedis/TV-LogoPack/blob/main/Test/BeinSports01.m3u8?raw=true
-
-#EXTINF:-1 group-title="Sports" tvg-name="Bein Sports 2",Bein Sports 2
-https://github.com/ProjectRedis/TV-LogoPack/blob/main/Test/BeinSports02.m3u8?raw=true
