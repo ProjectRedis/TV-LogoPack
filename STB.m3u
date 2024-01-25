@@ -56,14 +56,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 #EXTINF:-1 group-title="Indonesia+" tvg-name="Bioskop Indonesia",Bioskop Indonesia
 http://myteve.online:8080/F12232/f23d27c1/264801
 
-#EXTINF:-1 group-title="Movies" tvg-name="My Cinema",My Cinema
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-name="My Cinema Asia",My Cinema Asia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://op-group1-swiftservesd-1.dens.tv/h/h193/index.m3u8
-
 #EXTINF:-1 group-title="Movies" tvg-name="Paramount Network",Paramount Network
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683174&extension=ts&play_token=GVZS088tcf
 
@@ -82,18 +74,6 @@ https://github.com/ProjectRedis/TV-LogoPack/blob/main/Test/HBOSignature.m3u8?raw
 #EXTINF:-1 group-title="Movies" tvg-name="AXN",AXN
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/axn.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-name="TVN Movies",TVN Movies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-name="TVN",TVN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h215/02.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-name="Thrill",Thrill
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h240/02.m3u8
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -102,6 +82,12 @@ http://210.210.155.35/uq2663/h/h08/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4c
 
 #EXTINF:-1 group-title="Movies" tvg-name="Rock Action",Rock Action
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/rockaction.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-name="TVN Movies",TVN Movies
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch343%29/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-name="ONE",ONE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch338%29/index.m3u8
 
 #EXTINF:-1 group-title="Knowledge" tvg-name="Animal Planet",Animal Planet
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch31%29/index.m3u8
@@ -124,9 +110,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch76%29/index.
 #EXTINF:-1 group-title="Lifestyle" tvg-name="TLC",TLC
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch35%29/index.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-name="ONE",ONE
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch338%29/index.m3u8
-
 #EXTINF:-1 group-title="Entertainment" tvg-name="GEM",GEM
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3400%29/index.m3u8
 
@@ -136,9 +119,6 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/rockentertainment.m3u8
 #EXTINF:-1 group-title="Kids" tvg-name="Cartoon Network",Cartoon Network
 http://iptvtree.net:8080/F26646/f950f250/157593
 
-#EXTINF:-1 group-title="Kids" tvg-name="Nickelodeon",Nickelodeon
-http://xtv.ooo:8080/3212571066/abc123/351014
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
 #EXTINF:-1 group-title="Kids" tvg-name="Aniplus",Aniplus
@@ -146,6 +126,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-name="Animax",Animax
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/animax.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-name="Nickelodeon",Nickelodeon
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch105%29/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
@@ -155,29 +138,5 @@ http://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-name="SPO TV" ,SPO TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch329%29/index.m3u8
 
-
 #EXTINF:-1 group-title="Sports" tvg-name="SPO TV 2" ,SPO TV 2
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3300%29/index.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-name="Nickelodeon 2",Nickelodeon 2
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch105%29/index.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-name="My Family Channel",My Family Channel
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8?app_type=web&userid=jjj&chname=My_Family_Channel
-
-#EXTINF:-1 group-title="Movies" tvg-name="ONE",ONE
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch338%29/index.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-name="TVN Movies",TVN Movies
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch343%29/index.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-name="Zee Action",Zee Action
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-name="Zee Bioskop",Zee Bioskop
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch161%29/index.m3u8  
-
-#EXTINF:-1 group-title="Movies" tvg-name="Zee Cinema",Zee Cinema
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
