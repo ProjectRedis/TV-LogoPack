@@ -65,6 +65,9 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/axn.m3u8
 #EXTINF:-1 group-title="Movies" tvg-name="K-Plus",K-Plus
 http://210.210.155.35/uq2663/h/h08/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=K-PLUS_HD
 
+#EXTINF:-1 group-title="Movies" tvg-name="Rock Action",Rock Action
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/rockaction.m3u8
+
 #EXTINF:-1 group-title="Knowledge" tvg-name="Animal Planet",Animal Planet
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch31%29/index.m3u8
 
@@ -91,6 +94,9 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch338%29/index
 
 #EXTINF:-1 group-title="Entertainment" tvg-name="GEM",GEM
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3400%29/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-name="Rock Entertainment",Rock Entertainment
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/rockentertainment.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-name="Cartoon Network",Cartoon Network
 http://iptvtree.net:8080/F26646/f950f250/157593
