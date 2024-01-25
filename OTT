@@ -395,4 +395,27 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch354%29/index
 
 ============================== END ==============================
 
+=============== SPORTS ===============
+EXTINF:-1 group-logo="",Sports
+
+//--- AFC Cup 1 2023/24
+#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-name="Soccer Channel" tvg-logo="https://i.ibb.co/kynLLVW/afcacqtr23.png" group-title="Sports", AFC Asian Cup 2023 A
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd  
+
+//--- AFC Cup 2 2023/24
+#EXTINF:-1 tvg-id="Sportstars - [Channel 102].id" tvg-name="Sportstars" tvg-logo="https://i.ibb.co/kynLLVW/afcacqtr23.png" group-title="Sports", AFC Asian Cup 2023 B
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
+//--- AFC Cup 3 2023/24
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/kynLLVW/afcacqtr23.png" group-title="Sportske Gecko) Chrome/109.0.0.0 Safari/537.36
+https://persiana.mastercast.cloud/memfs/f1accec0-3b52-476b-ada9-65f74ead985e.m3u8
+
+============================== END ==============================
+
 #EXTM3U billed-msg="List IPTV ini 100% gratis! jangan diperjual belikan"
