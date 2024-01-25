@@ -352,6 +352,22 @@ https://github.com/ProjectRedis/TV-LogoPack/blob/main/Test/NatGeoWild.m3u8?raw=t
 =============== ENTERTAINMENT ===============
 EXTINF:-1 group-logo="",Entertainment
 
+//--- Dunia Lain
+#EXTINF:-1 group-title="Entertainment" tvg-name="Dunia Lain" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/DuniaLain.png?raw=true",Dunia Lain
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=64756e69616c61696e30303030303030:d742218958e10ca989be6a63f2db9b6d
+https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
+
+//--- Eat & Go
+#EXTINF:-1 group-title="Entertainment" tvg-name="Eat & Go" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/Eat%26Go.png?raw=true",Eat & Go
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://cdn08jtedge.indihometv.com/dassdvr/134/eatgo/manifest.mpd
+
 //--- GEM
 #EXTINF:-1 group-title="Entertainment" tvg-name="GEM" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/GEM.png?raw=true",GEM
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3400%29/index.m3u8
