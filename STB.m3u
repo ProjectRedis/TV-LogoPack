@@ -11,6 +11,10 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b3840
 #EXTINF:-1 group-title="Indonesia" tvg-name="Garuda TV",Garuda TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch45%29/index.m3u8
 
+#EXTINF:-1 group-title="Indonesia" tvg-name="Indosiar",Indosiar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+
 #EXTINF:-1 group-title="Indonesia" tvg-name="JTV",JTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch17%29/index.m3u8
 
@@ -38,8 +42,24 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.
 #EXTINF:-1 group-title="Indonesia" tvg-name="TVRI World",TVRI World
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.m3u8?checkedby:iptvcat.com
 
+#EXTINF:-1 group-title="Indonesia" tvg-name="Metro TV",Metro TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8
+
 #EXTINF:-1 group-title="Indonesia" tvg-name="Moji",Moji
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/23
+
+#EXTINF:-1 group-title="Indonesia" tvg-name="Net.",Net.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-name="My Cinema",My Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-name="My Cinema Asia",My Cinema Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservesd-1.dens.tv/h/h193/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-name="Paramount Network",Paramount Network
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683174&extension=ts&play_token=GVZS088tcf
@@ -58,6 +78,18 @@ https://github.com/ProjectRedis/TV-LogoPack/blob/main/Test/HBOSignature.m3u8?raw
 
 #EXTINF:-1 group-title="Movies" tvg-name="AXN",AXN
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/axn.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-name="TVN Movies",TVN Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-name="TVN",TVN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h215/02.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-name="Thrill",Thrill
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h240/02.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
