@@ -11,9 +11,6 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b3840
 #EXTINF:-1 group-title="Indonesia" tvg-name="Garuda TV",Garuda TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch45%29/index.m3u8
 
-#EXTINF:-1 group-title="Indonesia" tvg-name="GTV",GTV
-http://xtv.ooo:8080/3212571066/abc123/350954
-
 #EXTINF:-1 group-title="Indonesia" tvg-name="Indosiar",Indosiar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
@@ -59,15 +56,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 #EXTINF:-1 group-title="Indonesia+" tvg-name="Bioskop Indonesia",Bioskop Indonesia
 http://myteve.online:8080/F12232/f23d27c1/264801
 
-#EXTINF:-1 group-title="Indonesia+" tvg-name="Dunia Lain",Dunia Lain
-http://xtv.ooo:8080/3212571066/abc123/350938
-
-#EXTINF:-1 group-title="Indonesia+" tvg-name="Eat & Go",Eat & Go
-http://xtv.ooo:8080/3212571066/abc123/350939
-
-#EXTINF:-1 group-title="Movies" tvg-name="Cinemax",Cinemax
-http://xtv.ooo:8080/3212571066/abc123/350922
-
 #EXTINF:-1 group-title="Movies" tvg-name="My Cinema",My Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
@@ -88,17 +76,8 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch326%29/index
 #EXTINF:-1 group-title="Movies" tvg-name="Celestial Movies",Celestial Movies
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch204%29/index.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-name="Celestial Classic Movies",Celestial Classic Movies
-http://xtv.ooo:8080/3212571066/abc123/350912
-
 #EXTINF:-1 group-title="Movies" tvg-name="HBO Signature",HBO Signature
 https://github.com/ProjectRedis/TV-LogoPack/blob/main/Test/HBOSignature.m3u8?raw=true
-
-#EXTINF:-1 group-title="Movies" tvg-name="Galaxy",Galaxy
-http://xtv.ooo:8080/3212571066/abc123/350950
-
-#EXTINF:-1 group-title="Movies" tvg-name="Galaxy Premium",Galaxy Premium
-http://xtv.ooo:8080/3212571066/abc123/350951
 
 #EXTINF:-1 group-title="Movies" tvg-name="AXN",AXN
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/axn.m3u8
@@ -123,9 +102,6 @@ http://210.210.155.35/uq2663/h/h08/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4c
 
 #EXTINF:-1 group-title="Movies" tvg-name="Rock Action",Rock Action
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/rockaction.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-name="Rock Extreme",Rock Extreme
-http://xtv.ooo:8080/3212571066/abc123/351027
 
 #EXTINF:-1 group-title="Knowledge" tvg-name="Animal Planet",Animal Planet
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch31%29/index.m3u8
