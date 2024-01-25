@@ -68,12 +68,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch29%29/index.
 #EXTINF:-1 group-title="Knowledge" tvg-name="History",History
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch131%29/index.m3u8
 
-#EXTINF:-1 group-title="Knowledge" tvg-name="Nat Geo",Nat Geo
-https://raw.githubusercontent.com/ProjectRedis/TV-LogoPack/main/Test/NatGeo.m3u8
-
-#EXTINF:-1 group-title="Knowledge" tvg-name="Nat Geo Wild",Nat Geo Wild
-https://raw.githubusercontent.com/ProjectRedis/TV-LogoPack/main/Test/NatGeoWild.m3u8
-
 #EXTINF:-1 group-title="Knowledge" tvg-name="Global Trekker",Global Trekker
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch366%29/index.m3u8
 
