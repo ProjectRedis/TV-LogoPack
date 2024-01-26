@@ -171,5 +171,29 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683148&ex
 #EXTINF:0 group-title="Movies",TVN Movies 2
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683149&extension=ts&play_token=wJfTp9js5o
 
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",CINEMAX
+#EXTINF:0 group-title="Movies",Cinemax
 http://103.113.116.150:25461/mtm1/12345/20
+
+#EXTINF:0 group-title="Sports",BEIN Sports 1
+http://103.113.116.150:25461/mtm1/12345/75
+
+#EXTINF:0 group-title="Sports",BEIN Sports 3
+http://103.113.116.150:25461/mtm1/12345/76
+
+#EXTINF:0 group-title="Knowledge",BBC
+http://103.113.116.150:25461/mtm1/12345/34
+
+#EXTINF:0 group-title="Movies",HBO
+http://103.113.116.150:25461/mtm1/12345/16
+
+#EXTINF:0 group-title="Movies",HBO Hits
+http://103.113.116.150:25461/mtm1/12345/17
+
+#EXTINF:0 group-title="Movies",HBO Signature
+http://103.113.116.150:25461/mtm1/12345/18
+
+#EXTINF:0 group-title="Movies",HBO Family
+http://103.113.116.150:25461/mtm1/12345/19
+
+#EXTINF:0 group-title="Entertainment",DreamWorks
+http://103.113.116.150:25461/mtm1/12345/38
