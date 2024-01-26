@@ -195,5 +195,8 @@ http://103.113.116.150:25461/mtm1/12345/18
 #EXTINF:0 group-title="Movies",HBO Family
 http://103.113.116.150:25461/mtm1/12345/19
 
-#EXTINF:0 group-title="Entertainment",DreamWorks
+#EXTINF:0 group-title="Entertainment",DW Channel
 http://103.113.116.150:25461/mtm1/12345/38
+
+#EXTINF:0 group-title="Indonesia+",Dunia Lain
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/dunialain.m3u8
