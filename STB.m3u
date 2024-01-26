@@ -170,3 +170,6 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683148&ex
 
 #EXTINF:0 group-title="Movies",TVN Movies 2
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683149&extension=ts&play_token=wJfTp9js5o
+
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",CINEMAX
+http://103.113.116.150:25461/mtm1/12345/20
