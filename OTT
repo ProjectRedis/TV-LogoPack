@@ -219,9 +219,21 @@ https://nyanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
+//--- HBO
+#EXTINF:0 group-title="Movies" tvg-name="FMN" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/HBO.png?raw=true",HBO
+http://103.113.116.150:25461/mtm1/12345/16
+
+//--- HBO Hits
+#EXTINF:0 group-title="Movies" tvg-name="FMN" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/HBOHits.png?raw=true",HBO Hits
+http://103.113.116.150:25461/mtm1/12345/17
+
 //--- HBO Signature
-#EXTINF:-1 group-title="Movies" tvg-name="HBO Signature" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/HBOSignature.png?raw=true",HBO Signature
-https://github.com/ProjectRedis/TV-LogoPack/blob/main/Test/HBOSignature.m3u8?raw=true
+#EXTINF:0 group-title="Movies" tvg-name="FMN" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/HBOSignature.png?raw=true",HBO Signature
+http://103.113.116.150:25461/mtm1/12345/18
+
+//--- HBO Family
+#EXTINF:0 group-title="Movies" tvg-name="FMN" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/HBOFamily.png?raw=true",HBO Family
+http://103.113.116.150:25461/mtm1/12345/19
 
 //--- K-Plus
 #EXTINF:-1 group-title="Movies" tvg-name="K-Plus" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/K-Plus.png?raw=true",K-Plus
