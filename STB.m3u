@@ -56,6 +56,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 #EXTINF:-1 group-title="Indonesia+" tvg-name="Bioskop Indonesia",Bioskop Indonesia
 http://myteve.online:8080/F12232/f23d27c1/264801
 
+#EXTINF:0 group-title="Indonesia+",Dunia Lain
+http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/298524
+
 #EXTINF:-1 group-title="Movies" tvg-name="Paramount Network",Paramount Network
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683174&extension=ts&play_token=GVZS088tcf
 
@@ -80,8 +83,47 @@ http://210.210.155.35/uq2663/h/h08/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4c
 #EXTINF:-1 group-title="Movies" tvg-name="Rock Action",Rock Action
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/rockaction.m3u8
 
+#EXTINF:-1 group-title="Movies" tvg-name="Rock Entertainment",Rock Entertainment
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/rockentertainment.m3u8
+
 #EXTINF:-1 group-title="Movies" tvg-name="ONE",ONE
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch338%29/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-name="Citra Bioskop",Citra Bioskop
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch376%29/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-name="Citra Drama",Citra Drama
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch378%29/index.m3u8
+
+#EXTINF:-1 group-title="Movies",TVN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch339%29/index.m3u8
+
+#EXTINF:-1 group-title="Movies",TVN Movies
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch343%29/index.m3u8
+
+#EXTINF:-1 group-title="Movies",KBS World
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch262%29/index.m3u8
+
+#EXTINF:0 group-title="Movies",THRILL
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683154&extension=ts&play_token=wJfTp9js5o
+
+#EXTINF:0 group-title="Movies",Cinemax
+http://103.113.116.150:25461/mtm1/12345/20
+
+#EXTINF:0 group-title="Movies",HBO
+http://103.113.116.150:25461/mtm1/12345/16
+
+#EXTINF:0 group-title="Movies",HBO Hits
+http://103.113.116.150:25461/mtm1/12345/17
+
+#EXTINF:0 group-title="Movies",HBO Signature
+http://103.113.116.150:25461/mtm1/12345/18
+
+#EXTINF:0 group-title="Movies",HBO Family
+http://103.113.116.150:25461/mtm1/12345/19
+
+#EXTINF:-1 group-title="Movies", AMC Thrillers
+https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8?ads.wurl_channel=476&ads.wurl_name=RushByAMC&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=sQN_f5E2o3f4xpcEPue3&ads.plex_id=5fc705e2a2236e002d69f36d&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
 #EXTINF:-1 group-title="Knowledge" tvg-name="Animal Planet",Animal Planet
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch31%29/index.m3u8
@@ -95,20 +137,22 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch131%29/index
 #EXTINF:-1 group-title="Knowledge" tvg-name="Global Trekker",Global Trekker
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch366%29/index.m3u8
 
-#EXTINF:-1 group-title="Lifestyle" tvg-name="HGTV",HGTV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch354%29/index.m3u8
+#EXTINF:0 group-title="Knowledge",BBC
+http://103.113.116.150:25461/mtm1/12345/34
 
-#EXTINF:-1 group-title="Lifestyle" tvg-name="Asian Food Network",Asian Food Network
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch76%29/index.m3u8
-
-#EXTINF:-1 group-title="Lifestyle" tvg-name="TLC",TLC
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch35%29/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
+#EXTINF:0 group-title="Knowledge",Outdoor Channel
+https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-name="GEM",GEM
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3400%29/index.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-name="Rock Entertainment",Rock Entertainment
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/rockentertainment.m3u8
+#EXTINF:-1 group-title="Entertainment",Citra Dangdut
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch377%29/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",Citra Entertainment
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch379%29/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-name="Cartoon Network",Cartoon Network
 http://iptvtree.net:8080/F26646/f950f250/157593
@@ -129,70 +173,26 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch105%29/index
 #EXTINF:-1 group-title="Kids" tvg-name="MyKidz",MyKidz
 http://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-name="SPO TV" ,SPO TV
+#EXTINF:-1 group-title="Lifestyle" tvg-name="HGTV",HGTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch354%29/index.m3u8
+
+#EXTINF:-1 group-title="Lifestyle" tvg-name="Asian Food Network",Asian Food Network
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch76%29/index.m3u8
+
+#EXTINF:-1 group-title="Lifestyle" tvg-name="TLC",TLC
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch35%29/index.m3u8
+
+#EXTINF:0 group-title="News",DW Channel
+http://103.113.116.150:25461/mtm1/12345/38
+
+#EXTINF:-1 group-title="Sports" tvg-name="SPO TV",SPO TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch329%29/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-name="SPO TV 2" ,SPO TV 2
+#EXTINF:-1 group-title="Sports" tvg-name="SPO TV 2",SPO TV 2
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3300%29/index.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-name="Citra Bioskop",Citra Bioskop
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch376%29/index.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-name="Citra Drama",Citra Drama
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch378%29/index.m3u8
-
-#EXTINF:-1 group-title="Entertainment",Citra Dangdut
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch377%29/index.m3u8
-
-#EXTINF:-1 group-title="Entertainment",Citra Entertainment
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch379%29/index.m3u8
-
-#EXTINF:-1 group-title="Movies",TVN
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch339%29/index.m3u8
-
-#EXTINF:-1 group-title="Movies",TVN Movies
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch343%29/index.m3u8
-
-#EXTINF:-1 group-title="Movies",KBS World
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch262%29/index.m3u8
-
-#EXTINF:0 group-title="Movies",THRILL
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683154&extension=ts&play_token=wJfTp9js5o
-
-#EXTINF:0 group-title="Movies",Cinemax
-http://103.113.116.150:25461/mtm1/12345/20
 
 #EXTINF:0 group-title="Sports",BEIN Sports 1
 http://103.113.116.150:25461/mtm1/12345/75
 
 #EXTINF:0 group-title="Sports",BEIN Sports 3
 http://103.113.116.150:25461/mtm1/12345/76
-
-#EXTINF:0 group-title="Knowledge",BBC
-http://103.113.116.150:25461/mtm1/12345/34
-
-#EXTINF:0 group-title="Movies",HBO
-http://103.113.116.150:25461/mtm1/12345/16
-
-#EXTINF:0 group-title="Movies",HBO Hits
-http://103.113.116.150:25461/mtm1/12345/17
-
-#EXTINF:0 group-title="Movies",HBO Signature
-http://103.113.116.150:25461/mtm1/12345/18
-
-#EXTINF:0 group-title="Movies",HBO Family
-http://103.113.116.150:25461/mtm1/12345/19
-
-#EXTINF:-1 group-title="Movies", AMC Thrillers
-https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8?ads.wurl_channel=476&ads.wurl_name=RushByAMC&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=sQN_f5E2o3f4xpcEPue3&ads.plex_id=5fc705e2a2236e002d69f36d&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:0 group-title="Knowledge",Outdoor Channel
-https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-
-#EXTINF:0 group-title="Entertainment",DW Channel
-http://103.113.116.150:25461/mtm1/12345/38
-
-#EXTINF:0 group-title="Indonesia+",Dunia Lain
-http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/298524
