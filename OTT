@@ -259,11 +259,11 @@ http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683174&extensi
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch204%29/index.m3u8
 
 //--- Cinemax
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://cine.openwindows037.workers.dev/
 #EXTINF:-1 group-title="Movies" tvg-name="Cinemax" tvg-logo="",Cinemax
-https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
 
 //--- AXN East Asia
 #EXTINF:-1 group-title="Movies" tvg-name="AXN East Asia" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/AXN.png?raw=true",AXN East Asia
