@@ -437,12 +437,18 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeIn
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch366%29/index.m3u8
 
 //--- Nat Geo
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 group-title="Knowledge" tvg-name="Nat Geo" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/NatGeo.png?raw=true",Nat Geo
-https://github.com/ProjectRedis/TV-LogoPack/blob/main/Test/NatGeo.m3u8?raw=true
+https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
 //--- Nat Geo Wild
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 group-title="Knowledge" tvg-name="Nat Geo Wild" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/NatGeoWild.png?raw=true",Nat Geo Wild
-https://github.com/ProjectRedis/TV-LogoPack/blob/main/Test/NatGeoWild.m3u8?raw=true
+https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
 ============================== END ==============================
 
