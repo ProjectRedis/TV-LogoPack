@@ -15,14 +15,20 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch45%29/index.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
+#EXTINF:-1 group-title="Indonesia" tvg-name="Indonesiana TV",Indonesiana TV
+https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
+
 #EXTINF:-1 group-title="Indonesia" tvg-name="JTV",JTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch17%29/index.m3u8
 
 #EXTINF:-1 group-title="Indonesia" tvg-name="Kompas TV",Kompas TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch410%29/index.m3u8
 
-#EXTINF:-1 group-title="Indonesia" tvg-name="Magna Channel" ,Magna Channel
+#EXTINF:-1 group-title="Indonesia" tvg-name="Magna Channel",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w757574110_b2692000_sleng.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-name="Nusantara TV",Nusantara TV
+https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
 #EXTINF:-1 group-title="Indonesia" tvg-name="Trans TV",Trans TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch396%29/index.m3u8
@@ -53,11 +59,12 @@ http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 
-#EXTINF:-1 group-title="Indonesia+" tvg-name="Bioskop Indonesia",Bioskop Indonesia
-http://myteve.online:8080/F12232/f23d27c1/264801
+#EXTINF:-1 group-title="Indonesia" tvg-name="SCTV",SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#EXTINF:0 group-title="Indonesia+",Dunia Lain
-http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/298524
+#EXTINF:-1 group-title="Movies" tvg-name="Bioskop Indonesia",Bioskop Indonesia
+#http://103.113.116.150:25461/mtm1/12345/23
 
 #EXTINF:-1 group-title="Movies" tvg-name="Paramount Network",Paramount Network
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683174&extension=ts&play_token=GVZS088tcf
@@ -131,18 +138,24 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch31%29/index.
 #EXTINF:-1 group-title="Knowledge" tvg-name="Discovery Channel",Discovery Channel
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch29%29/index.m3u8
 
+#EXTINF:-1 group-title="Knowledge" tvg-name="Discovery Asia",Discovery Asia
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch302%29/index.m3u8
+
+#EXTINF:-1 group-title="Knowledge" tvg-name="Dmax TV",Dmax TV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch347%29/index.m3u8
+
 #EXTINF:-1 group-title="Knowledge" tvg-name="History",History
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch131%29/index.m3u8
 
 #EXTINF:-1 group-title="Knowledge" tvg-name="Global Trekker",Global Trekker
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch366%29/index.m3u8
 
-#EXTINF:0 group-title="Knowledge",BBC
+#EXTINF:-1 group-title="Knowledge",BBC
 http://103.113.116.150:25461/mtm1/12345/34
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:0 group-title="Knowledge",Outdoor Channel
+#EXTINF:-1 group-title="Knowledge",Outdoor Channel
 https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-name="GEM",GEM
@@ -154,8 +167,17 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch377%29/index
 #EXTINF:-1 group-title="Entertainment",Citra Entertainment
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch379%29/index.m3u8
 
+#EXTINF:-1 group-title="Entertainment",Dunia Lain
+http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/298524
+
 #EXTINF:-1 group-title="Kids" tvg-name="Cartoon Network",Cartoon Network
 http://iptvtree.net:8080/F26646/f950f250/157593
+
+#EXTINF:-1 group-title="Kids" tvg-name="Cartoon Network 2",Cartoon Network 2
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch103%29/index.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-name="Cartoonito",Cartoonito
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch372%29/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
@@ -168,8 +190,17 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/animax.m3u8
 #EXTINF:-1 group-title="Kids" tvg-name="Nickelodeon",Nickelodeon
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch105%29/index.m3u8
 
+#EXTINF:-1 group-title="Kids" tvg-name="Nick Jr",Nick Jr
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch124%29/index.m3u8
+
 #EXTINF:-1 group-title="Kids" tvg-name="Nickelodeon 2",Nickelodeon 2
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/nickelodeon.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-name="Horee",Horee
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch375%29/index.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-name="Mentari TV",Mentari TV
+#http://103.113.116.150:25461/mtm1/12345/25
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
@@ -181,6 +212,9 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch354%29/index
 
 #EXTINF:-1 group-title="Lifestyle" tvg-name="Asian Food Network",Asian Food Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch76%29/index.m3u8
+
+#EXTINF:-1 group-title="Lifestyle" tvg-name="Fashion TV",Fashion TV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch168%29/index.m3u8
 
 #EXTINF:-1 group-title="Lifestyle" tvg-name="TLC",TLC
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch35%29/index.m3u8
