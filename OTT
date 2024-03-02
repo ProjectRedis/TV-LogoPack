@@ -97,6 +97,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://github.com/ProjectRedis/TV-LogoPack/blob/main/EXTV3/SCTV%20HD?raw=true
 
+//--- SCTV 2
+#EXTINF:-1 group-title="Indonesia" tvg-name="SCTV" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/SCTV.png?raw=true",SCTV 2
+http://37.49.225.197:8080/F31068/8fd17683/162141
+
 //--- Sindo News
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
