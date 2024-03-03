@@ -225,6 +225,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.
 =============== MOVIES ===============
 EXTINF:-1 group-logo="",Movies
 
+//--- Bioskop Indonesia
+#EXTINF:-1 group-title="Movies" tvg-name="Bioskop Indonesia" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/BioskopIndonesia.png?raw=true",Bioskop Indonesia
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
+
 //--- Cinema World
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
