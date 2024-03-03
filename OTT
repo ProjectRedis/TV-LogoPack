@@ -72,27 +72,27 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 //--- NET.
-#EXTINF:-1 group-title="Indonesia" tvg-name="NET." tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/NET..png?raw=true",NET.
+#EXTINF:-1 group-title="Indonesia" tvg-name="NET TV" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/NET..png?raw=true",NET.
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 //--- NET. 2
-#EXTINF:-1 group-title="Indonesia" tvg-name="NET." tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/NET..png?raw=true",NET. 2
+#EXTINF:-1 group-title="Indonesia" tvg-name="NET TV" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/NET..png?raw=true",NET. 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #https://mangga-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 
 //--- NET. 3
-#EXTINF:-1 group-title="Indonesia" tvg-name="NET." tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/NET..png?raw=true",NET. 3
+#EXTINF:-1 group-title="Indonesia" tvg-name="NET TV" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/NET..png?raw=true",NET. 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 https://mangga-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 //--- NET. 4
-#EXTINF:-1 group-title="Indonesia" tvg-name="NET." tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/NET..png?raw=true",NET. 4
+#EXTINF:-1 group-title="Indonesia" tvg-name="NET TV" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/NET..png?raw=true",NET. 4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
