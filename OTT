@@ -326,32 +326,32 @@ https://nyanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
 //--- HBO
+#EXTINF:-1 group-title="Movies" tvg-name="HBO" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/HBO.png?raw=true",HBO
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
-#EXTINF:-1 group-title="Movies" tvg-name="HBO" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/HBO.png?raw=true",HBO
-https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+https://servicebuss.transvision.co.id/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 //--- HBO Hits
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
 #EXTINF:-1 group-title="Movies" tvg-name="HBO Hits" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/HBOHits.png?raw=true",HBO Hits
-https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
-
-//--- HBO Signature
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
-#EXTINF:-1 group-title="Movies" tvg-name="HBO Signature" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/HBOSignature.png?raw=true",HBO Signature
-https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+https://servicebuss.transvision.co.id/live/master/3/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
 //--- HBO Family
+#EXTINF:-1 group-title="Movies" tvg-name="HBO Family" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/HBOFamily.png?raw=true",HBO Family
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
-#EXTINF:-1 group-title="Movies" tvg-name="HBO Family" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/HBOFamily.png?raw=true",HBO Family
-https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+https://servicebuss.transvision.co.id/live/master/3/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+
+//--- HBO Signature
+#EXTINF:-1 group-title="Movies" tvg-name="HBO Signature" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/HBOSignature.png?raw=true",HBO Signature
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+https://servicebuss.transvision.co.id/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
 //--- K-Plus
 #EXTINF:-1 group-title="Movies" tvg-name="K-Plus" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/K-Plus.png?raw=true",K-Plus
