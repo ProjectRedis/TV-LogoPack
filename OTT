@@ -203,49 +203,49 @@ EXTINF:-1 group-logo="",Movies
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="Movies" tvg-name="Cinema World" tvg-logo="",Cinema World
+#EXTINF:-1 group-title="Movies" tvg-name="Cinema World" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/CinemaWorld.png?raw=true",Cinema World
 https://nyanv-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
 //--- Cinemachi
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="Movies" tvg-name="Cinemachi" tvg-logo="",Cinemachi
+#EXTINF:-1 group-title="Movies" tvg-name="Cinemachi" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/Cinemachi.png?raw=true",Cinemachi
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
 
 //--- Cinemachi Kids
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="Movies" tvg-name="Cinemachi Kids" tvg-logo="",Cinemachi Kids
+#EXTINF:-1 group-title="Movies" tvg-name="Cinemachi Kids" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/CinemachiKids.png?raw=true",Cinemachi Kids
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
 
 //--- Cinemachi Action
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="Movies" tvg-name="Cinemachi Action" tvg-logo="",Cinemachi Action
+#EXTINF:-1 group-title="Movies" tvg-name="Cinemachi Action" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/CinemachiAction.png?raw=true",Cinemachi Action
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
 
 //--- Cinemachi Max
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="Movies" tvg-name="Cinemachi Max" tvg-logo="",Cinemachi Max
+#EXTINF:-1 group-title="Movies" tvg-name="Cinemachi Max" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/CinemachiMax.png?raw=true",Cinemachi Max
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
 
 //--- Cinemachi Xtra
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="Movies" tvg-name="Cinemachi Xtra" tvg-logo="",Cinemachi Xtra
+#EXTINF:-1 group-title="Movies" tvg-name="Cinemachi Xtra" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/CinemachiXtra.png?raw=true",Cinemachi Xtra
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
 
 //--- Indonesia Movie Channel
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="Movies" tvg-name="Indonesia Movie Channel" tvg-logo="",Indonesia Movie Channel
+#EXTINF:-1 group-title="Movies" tvg-name="Indonesia Movie Channel" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/IMC.png?raw=true",Indonesia Movie Channel
 https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
 //--- Flik
@@ -268,7 +268,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch204%29/index
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cine.openwindows037.workers.dev/
-#EXTINF:-1 group-title="Movies" tvg-name="Cinemax" tvg-logo="",Cinemax
+#EXTINF:-1 group-title="Movies" tvg-name="Cinemax" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/Cinemax.png?raw=true",Cinemax
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
 
 //--- AXN East Asia
@@ -409,7 +409,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch326%29/index
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="Movies" tvg-name="KIX" tvg-logo="",KIX
+#EXTINF:-1 group-title="Movies" tvg-name="KIX" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/KIX.png?raw=true",KIX
 https://nyanv-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
 //--- Rock Entertainment
