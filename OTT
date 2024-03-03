@@ -5,7 +5,9 @@ EXTINF:-1 group-logo="",Indonesia
 //--- ANTV
 #EXTINF:-1 group-title="Indonesia" tvg-name="ANTV" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/ANTV.png?raw=true",ANTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch390%29/index.m3u8
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
+https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 //--- BTV
 #EXTINF:-1 group-title="Indonesia" tvg-name="BTV" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/BTV.png?raw=true",BTV
@@ -130,13 +132,17 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mp
 
 //--- Trans TV
 #EXTINF:-1 group-title="Indonesia" tvg-name="Trans TV" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/Trans_TV.png?raw=true",Trans TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch396%29/index.m3u8
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
 //--- Trans7
 #EXTINF:-1 group-title="Indonesia" tvg-name="Trans 7" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/Trans7.png?raw=true",Trans7
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch397%29/index.m3u8
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 //--- tvOne
 #EXTINF:-1 group-title="Indonesia" tvg-name="tvOne" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/tvOne.png?raw=true",tvOne
