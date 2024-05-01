@@ -356,17 +356,14 @@ http://210.210.155.35/uq2663/h/h08/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4c
 
 //--- My Cinema
 #EXTINF:-1 group-title="Movies" tvg-name="My Cinema" tvg-id="mycinema.id" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/MyCinema.png?raw=true",My Cinema
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://testfunctionlive.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
 
 //--- My Cinema Asia
 #EXTINF:-1 group-title="Movies" tvg-name="My Cinema Asia" tvg-id="mycinemaasia.id" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/MyCinemaAsia.png?raw=true",My Cinema Asia
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd
+https://op-group1-swiftservesd-1.dens.tv/h/h193/index.m3u8
 
 //--- Rock Action
 #EXTINF:-1 group-title="Movies" tvg-name="Rock Action" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/RockAction.png?raw=true",Rock Action
@@ -389,10 +386,7 @@ https://testfunctionlive.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mp
 
 //--- My Family Channel
 #EXTINF:-1 group-title="Movies" tvg-name="My Family Channel" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/MyFamilyChannel.png?raw=true",My Family Channel
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
+https://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8
 
 //--- Celestial Classic Movies
 #EXTINF:-1 group-title="Movies" tvg-name="CCM" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/CelestialClassicMovies.png?raw=true",Celestial Classic Movies
