@@ -146,9 +146,13 @@ https://testfunctionlive.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/Pemersat
 #http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.m3u8?checkedby:iptvcat.com
 
 //--- Moji
-##EXTINF:-1 group-title="Indonesia" tvg-name="Moji" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/Moji_TV.png?raw=true",Moji
-##EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-#http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/23
+#EXTINF:-1 group-title="Indonesia" tvg-name="Moji" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/Moji_TV.png?raw=true",Moji
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cors-proxy.pulsesoftware.com/https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
 //--- VTV
 ##EXTINF:-1 group-title="Indonesia" tvg-name="VTV" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/VTV.png?raw=true",VTV
@@ -168,7 +172,7 @@ EXTINF:-1 group-logo="",Kids
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+https://melon-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx
 
 //--- Nickelodeon
 #EXTINF:-1 group-title="Kids" tvg-name="Nickelodeon" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/Nickelodeon.png?raw=true",Nickelodeon
@@ -527,16 +531,17 @@ EXTINF:-1 group-logo="",Lifestyle
 
 //--- Asian Food Network
 #EXTINF:-1 group-title="Lifestyle" tvg-name="Asian Food Network" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/AFN.png?raw=true",Asian Food Network
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch76%29/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=61666330303030303030303030303030:e6f0c3fa2a6adb104a0163a5ef0bdd79
+https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/133/afc/manifest.mpd
 
 //--- Lifetime
 #EXTINF:-1 group-title="Lifestyle" tvg-name="Lifetime" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/Lifetime.png?raw=true",Lifetime
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
-
+https://melon-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
+ 
 //--- TLC
 #EXTINF:-1 group-title="Lifestyle" tvg-name="TLC" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/TLC.png?raw=true",TLC
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -544,8 +549,9 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch35%29/index.
 
 //--- HGTV
 #EXTINF:-1 group-title="Lifestyle" tvg-name="HGTV" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/HGTV.png?raw=true",HGTV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch354%29/index.m3u8
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hgtv.m3u8
 ============================== END ==============================
 
 =============== SPORTS ===============
