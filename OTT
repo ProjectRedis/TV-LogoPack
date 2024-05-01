@@ -298,19 +298,19 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
-//--- TVN Premium
-#EXTINF:-1 group-title="Movies" tvg-name="TVN" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/TVN.png?raw=true",TVN Premium
+//--- TVN
+#EXTINF:-1 group-title="Movies" tvg-name="TVN" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/TVN.png?raw=true",TVN
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://testfunctionlive.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
 //--- TVN Movies
 #EXTINF:-1 group-title="Movies" tvg-name="TVN Movies" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/TVN_Movies.png?raw=true",TVN Movies
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://testfunctionlive.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
 //--- FMN
 #EXTINF:-1 group-title="Movies" tvg-name="FMN" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/FMN.png?raw=true",FMN
@@ -349,10 +349,8 @@ https://servicebuss.transvision.co.id/live/master/3/4028c6856c3db2cc016d0552e0ca
 
 //--- K-Plus
 #EXTINF:-1 group-title="Movies" tvg-name="K-Plus" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/K-Plus.png?raw=true",K-Plus
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-http://210.210.155.35/uq2663/h/h08/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=K-PLUS_HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h219/02.m3u8
 
 //--- My Cinema
 #EXTINF:-1 group-title="Movies" tvg-name="My Cinema" tvg-id="mycinema.id" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/MyCinema.png?raw=true",My Cinema
@@ -435,7 +433,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockente
 
 //--- ONE
 #EXTINF:-1 group-title="Movies" tvg-name="ONE" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/One.png?raw=true",ONE
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch338%29/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://testfunctionlive.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 ============================== END ==============================
 
