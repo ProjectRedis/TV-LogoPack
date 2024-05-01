@@ -292,11 +292,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h212/02.m3u8
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
 
 //--- AXN East Asia
-#EXTINF:-1 group-title="Movies" tvg-name="AXN" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/AXN.png?raw=true",AXN East Asia
+#EXTINF:-1 group-title="Movies" tvg-name="AXN" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/AXN.png?raw=true",AXN
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://testfunctionlive.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 //--- TVN
 #EXTINF:-1 group-title="Movies" tvg-name="TVN" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/TVN.png?raw=true",TVN
@@ -512,7 +512,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/eatgo/manifest.mpd
 
 //--- GEM
 #EXTINF:-1 group-title="Entertainment" tvg-name="GEM" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/GEM.png?raw=true",GEM
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3400%29/index.m3u8
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+https://cdn08jtedge.indihometv.com/dassdvr/133/sgem/manifest.mpd
 
 ============================== END ==============================
 
