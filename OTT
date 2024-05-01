@@ -262,11 +262,11 @@ https://testfunctionlive.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemac
 https://testfunctionlive.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
 
 //--- Indonesia Movie Channel
+#EXTINF:-1 group-title="Movies" tvg-name="Indonesia Movie Channel" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/IMC.png?raw=true",Indonesia Movie Channel
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="Movies" tvg-name="Indonesia Movie Channel" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/IMC.png?raw=true",Indonesia Movie Channel
-https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://testfunctionlive.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
 //--- Flik
 #EXTINF:-1 group-title="Movies" tvg-name="Flik" tvg-logo="",Flik
@@ -314,10 +314,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
 //--- FMN
 #EXTINF:-1 group-title="Movies" tvg-name="FMN" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/FMN.png?raw=true",FMN
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://testfunctionlive.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
 //--- HBO
 #EXTINF:-1 group-title="Movies" tvg-name="HBO" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/HBO.png?raw=true",HBO
@@ -370,24 +370,22 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asi
 
 //--- Rock Action
 #EXTINF:-1 group-title="Movies" tvg-name="Rock Action" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/RockAction.png?raw=true",Rock Action
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://testfunctionlive.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
 
 //--- Thrill
 #EXTINF:-1 group-title="Movies" tvg-name="Thrill" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/Thrill.png?raw=true",Thrill
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h240/02.m3u8
 
 //--- Zee Bioskop
 #EXTINF:-1 group-title="Movies" tvg-name="Zee Bioskop" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/ZeeBioskop.png?raw=true",Zee Bioskop
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://testfunctionlive.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 //--- My Family Channel
 #EXTINF:-1 group-title="Movies" tvg-name="My Family Channel" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/MyFamilyChannel.png?raw=true",My Family Channel
@@ -403,32 +401,36 @@ http://op-group1-swiftservehd-1.dens.tv/h/h239/02.m3u8
 
 //--- Galaxy
 #EXTINF:-1 group-title="Movies" tvg-name="Galaxy" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/Galaxy.png?raw=true",Galaxy
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGYwYjY2NTYtMDNkOS0zMDYyLTkzOTUtN2ZmYTlhZmM3NDQ1
-#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
-https://nyanv-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
- 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://testfunctionlive.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+
  //--- Galaxy Premium
 #EXTINF:-1 group-title="Movies" tvg-name="Galaxy Premium" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/GalaxyPremium.png?raw=true",Galaxy Premium
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGYwYjY2NTYtMDNkOS0zMDYyLTkzOTUtN2ZmYTlhZmM3NDQ1
-#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
-https://nyanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://testfunctionlive.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 
 //--- Hits Movies
 #EXTINF:-1 group-title="Movies" tvg-name="Hits Movies" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/Hits_Movies.png?raw=true",HITS Movies
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch324%29/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://testfunctionlive.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 //--- HITS
 #EXTINF:-1 group-title="Movies" tvg-name="HITS" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/HITS.png?raw=true",HITS
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch326%29/index.m3u8
-
-//--- KIX
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://testfunctionlive.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
+
+//--- KIX
 #EXTINF:-1 group-title="Movies" tvg-name="KIX" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/KIX.png?raw=true",KIX
-https://nyanv-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h220/02.m3u8
 
 //--- Rock Entertainment
 #EXTINF:-1 group-title="Movies" tvg-name="Rock Entertainment" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/RockEntertainment.png?raw=true",Rock Entertainment
