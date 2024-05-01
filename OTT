@@ -172,10 +172,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 //--- Nickelodeon
 #EXTINF:-1 group-title="Kids" tvg-name="Nickelodeon" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/Nickelodeon.png?raw=true",Nickelodeon
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+https://testfunctionlive.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
 //--- My Kidz
 #EXTINF:-1 group-title="Kids" tvg-name="My Kidz" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/My_Kidz.png?raw=true",My Kidz
@@ -183,6 +183,13 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mp
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
+
+//--- Kids TV
+#EXTINF:-1 group-title="Kids" tvg-name="Kids TV" tvg-logo="",Kids TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://testfunctionlive.mncnow.id/live/eds/Kids-HD/sa_dash_vmx/Kids-HD.mpd
 
 //--- AniPlus
 #EXTINF:-1 group-title="Kids" tvg-name="AniPlus" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/AniPlus.png?raw=true",AniPlus
