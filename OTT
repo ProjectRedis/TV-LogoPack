@@ -426,10 +426,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h220/02.m3u8
 
 //--- Rock Entertainment
 #EXTINF:-1 group-title="Movies" tvg-name="Rock Entertainment" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/RockEntertainment.png?raw=true",Rock Entertainment
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://testfunctionlive.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
 
 //--- ONE
 #EXTINF:-1 group-title="Movies" tvg-name="ONE" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/One.png?raw=true",ONE
